@@ -12,7 +12,7 @@ namespace Tyuiu.BiryukovAY.Sprint0.Task1.V0
         {
             Console.WriteLine("Hello, World");
             string name = "Алексей";
-            int age = 49;
+            int age = 48;
             Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " лет!");
             Console.ReadKey();
         }
