@@ -23,7 +23,6 @@ namespace Tyuiu.BiryukovAY.Sprint0.Task4.V0
             //Вызов метода деления Division
             Console.WriteLine(DataService.Division(5, 5));
 
-
             Console.ReadKey();
             }
         }
