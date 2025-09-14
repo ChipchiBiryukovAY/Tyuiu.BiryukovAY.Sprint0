@@ -65,6 +65,7 @@ namespace Tyuiu.BiryukovAY.Sprint0.Task7.V0
             {
                 Console.WriteLine("Ошибка! Исходные массивы имеют разное количество элементов");
             }
+
             Console.ReadKey();
         }
     }
